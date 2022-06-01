@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "271476447873",
+    "firebase_url": "https://chorey-a581a.firebaseio.com",
+    "project_id": "chorey-a581a",
+    "storage_bucket": "chorey-a581a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271476447873:android:2b0715adb1874b2d7b8b80",
+        "android_client_info": {
+          "package_name": "com.chorey.choreyprototype0712"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271476447873-kqp1j4ht12f6nnt92p7kc3qk15tiu994.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbJJFN_6facOZSG_DeQxP22L2c8E2hxew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271476447873-kqp1j4ht12f6nnt92p7kc3qk15tiu994.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
